@@ -26,11 +26,11 @@ As mensagens que serão enviadas irão conter informações dos jogadores: suas 
 
 
 
-*Requisitos Funcionais
+# Requisitos Funcionais
 
 
-*RF01: O sistema deve manter jogadores
-*RF02: O sistema deve manter tabuleiro
-*RF03: O sistema deve manter partida
-*RF04: O sistema deve manter minigame
+* RF01: O sistema deve manter jogadores
+* RF02: O sistema deve manter tabuleiro
+* RF03: O sistema deve manter partida
+* RF04: O sistema deve manter minigame
 

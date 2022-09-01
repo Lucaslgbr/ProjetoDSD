@@ -25,7 +25,9 @@ A pontuação final de cada jogador se dá pela sua posição no tabuleiro e pel
 As mensagens que serão enviadas irão conter informações dos jogadores: suas posições, pontuação e partida
 
 
+
 Requisitos Funcionais
+
 
 RF01
 O sistema deve manter jogadores

@@ -2,7 +2,7 @@
 
 Equipe: André Cristen e Lucas Levi Gonçalves
 
-Detalhamento do projeto e técnicas
+# Detalhamento do projeto e técnicas
 
 O projeto consiste em um jogo de tabuleiro para ensino do conceito de algoritmos na educação básica, a ideia é totalmente baseada em um artigo publicado na Revista Brasileira de Informática na Educação, chamado de “Desenvolvimento e Avaliação de um Jogo de Tabuleiro para Ensinar o Conceito de Algoritmos na Educação Básica” onde o trabalho realmente consistia em desenvolver um jogo de tabuleiro físico, onde tendo essa ideia como base iremos desenvolver uma versão online multijogador com as alterações e personalizações que forem necessárias para o cumprir as exigências das disciplinas de Projeto Integrador III e Desenvolvimento de Sistemas Paralelos e Distribuídos.
 
